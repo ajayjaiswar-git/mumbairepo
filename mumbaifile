@@ -1,6 +1,11 @@
 welcome to the world
 welcome to hello world
+<<<<<<< HEAD
 hi this is my other update to this fil
 hi from singapore
+=======
+hi this is my other update to this file
+updated from singapore
+>>>>>>> 9349602b2f51921079c55283f43c33594fc42b6d
 
 
